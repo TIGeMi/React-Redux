@@ -1,0 +1,9 @@
+li {
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.active {
+  color: red;
+}
